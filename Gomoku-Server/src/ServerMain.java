@@ -1,4 +1,8 @@
-
+//    Team Kleenex
+//    Gomoku-Server
+//    
+//    CSCE 320 / Spring 2011
+//    Thursday, May 26, 2011
 //    Sources: Java API w/ JDK
 
 /**
