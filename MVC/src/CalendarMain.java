@@ -1,11 +1,5 @@
 /*
-  Name: Nate Jackson
-  Assignment: MVC Pattern
-  Title: Calendar MVC
-  Course: CSCE 320
-  Semester: Spring 2011
-  Instructor: George Hauser
-  Date: 2/28/2011
+  MVC Pattern
   Sources consulted: 
 	http://www.leepoint.net/notes-java/GUI/structure/40mvc.html
 	http://www.oracle.com/technetwork/articles/javase/index-142890.html
