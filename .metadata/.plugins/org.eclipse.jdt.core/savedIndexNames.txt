@@ -1,0 +1,7 @@
+INDEX VERSION 1.126+C:\Users\Nate\Documents\GitHub\ninu-projects\.metadata\.plugins\org.eclipse.jdt.core
+3277441100.index
+3730526690.index
+3689519981.index
+4251467834.index
+2877109961.index
+2235460237.index
