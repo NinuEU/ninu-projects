@@ -1,6 +1,10 @@
 div.box {
-	
-	
+	margin-top: 50px;
+	background-color:yellow;
+	color:#00090;
+	border-style:double;
+	padding: 10px;
+	border-color: #00090
 }
 
 
@@ -8,7 +12,6 @@ h2 {
 	background-color:black;
 	color:white;
 	text-decoration:underline
-	
 }
 
 dt {
